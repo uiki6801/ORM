@@ -157,6 +157,8 @@
                             </select>
                             <span class="am-form-caret"></span>
                         </div>
+
+                        <p><input type="text" class="am-form-field am-radius" placeholder="圆角表单域" /></p>
                     </form>
 
                 </div>
